@@ -1,0 +1,200 @@
+{"claim_id": 105517, "claim_text": "You Belong with Me was performed as part of the 2009 -- 2010 investigation.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 46957, "claim_text": "Noah Cyrus is the youngest daughter of Billy Ray Cyrus, born on November 3rd, 2004.", "ground_truth": "REFUTES"}
+{"claim_id": 88301, "claim_text": "The third James Bond film directed by John Glen is A View to a Kill.", "ground_truth": "REFUTES"}
+{"claim_id": 121793, "claim_text": "Ann Richards was the head of the executive branch of Maine's government.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 125131, "claim_text": "Kellyanne Conway did not reference the \"Bowling Green massacre\" which never occurred.", "ground_truth": "REFUTES"}
+{"claim_id": 13432, "claim_text": "Edison Machine Works was rarely set up to produce large electric motors.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 121431, "claim_text": "No Country for Old Men is set somewhere other than the desert of 1980 West Texas.", "ground_truth": "REFUTES"}
+{"claim_id": 137438, "claim_text": "Julianne Moore created the television series As the World Turns.", "ground_truth": "REFUTES"}
+{"claim_id": 7258, "claim_text": "The Adventures of Pluto Nash was directed by Ron Underwood.", "ground_truth": "SUPPORTS"}
+{"claim_id": 175732, "claim_text": "The Cry of the Owl outsold the book The Cry of the Owl.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 107926, "claim_text": "The Mighty Ducks was produced by The Kerner Entertainment Company in 2017.", "ground_truth": "REFUTES"}
+{"claim_id": 223767, "claim_text": "Ralph Fults was born January 23 1911 and died in 1999.", "ground_truth": "REFUTES"}
+{"claim_id": 218479, "claim_text": "The Hanford Site is the host of the Pacific Northwest National Laboratory.", "ground_truth": "SUPPORTS"}
+{"claim_id": 220205, "claim_text": "Raabta (song) is a romantic Hindi song from a movie.", "ground_truth": "SUPPORTS"}
+{"claim_id": 213930, "claim_text": "Gray Matter Interactive Studios, Inc. was acquired by Activision in January 2002.", "ground_truth": "SUPPORTS"}
+{"claim_id": 215135, "claim_text": "Private Lives is a 1940 comedy in three acts by Noel Coward.", "ground_truth": "REFUTES"}
+{"claim_id": 218469, "claim_text": "The Hanford Site is incapable of being the Columbia Generating Station.", "ground_truth": "REFUTES"}
+{"claim_id": 102044, "claim_text": "Global warming is expected to result in a standoff by sea ice.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 156876, "claim_text": "The Greek language is spoken by at least 13.2 million pugs.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 128175, "claim_text": "Reign Over Me is an American film made in 2010.", "ground_truth": "REFUTES"}
+{"claim_id": 107875, "claim_text": "Homo sapiens live on the third asteroid from the Sun.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 7184, "claim_text": "Kellyanne Conway has been embroiled in a series of controversies.", "ground_truth": "SUPPORTS"}
+{"claim_id": 124817, "claim_text": "Fist of Legend is a remake of a poem by Lo Wei.", "ground_truth": "REFUTES"}
+{"claim_id": 150810, "claim_text": "English people are descended from the Saxons as a result of migration.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 195829, "claim_text": "Jeong Hyeong-don has worked under FNC Entertainment for 8 years.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 17129, "claim_text": "Jens Stoltenberg was Prime Minister of Canada from 2000 to 2001.", "ground_truth": "REFUTES"}
+{"claim_id": 179016, "claim_text": "Steve Ditko studied art at the Cartoonist and Illustrators School.", "ground_truth": "SUPPORTS"}
+{"claim_id": 198041, "claim_text": "The New York City Landmarks Preservation Commission includes zero architects.", "ground_truth": "REFUTES"}
+{"claim_id": 161864, "claim_text": "Robert Lopez has been nominated for, but lost Emmy awards.", "ground_truth": "REFUTES"}
+{"claim_id": 119636, "claim_text": "The maximum elevation in the Hindu Kush is over 7000 meters.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 84839, "claim_text": "Charles Manson led a sort-of-commune that came into being in California in the late 1960s.", "ground_truth": "SUPPORTS"}
+{"claim_id": 13520, "claim_text": "Lois Maxwell turned down the part in A View to a Kill.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 200297, "claim_text": "Richard Rutowski heavily revised the screenplay for Natural Born Killers.", "ground_truth": "SUPPORTS"}
+{"claim_id": 192898, "claim_text": "\"Love the Way You Lie\" was on the Billboard Hot 100 for seven weeks.", "ground_truth": "SUPPORTS"}
+{"claim_id": 183139, "claim_text": "Tata Motors is a constituent of the last BSE SENSEX index.", "ground_truth": "SUPPORTS"}
+{"claim_id": 148862, "claim_text": "Charles Manson led a quasi-commune that arose in universities in the late 1960s.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 125275, "claim_text": "The CONCACAF Champions League is rarely organized for football clubs in North America.", "ground_truth": "REFUTES"}
+{"claim_id": 107470, "claim_text": "L.A. Reid was turned down for the role of CEO of an American record label owned by Sony Music Entertainment.", "ground_truth": "REFUTES"}
+{"claim_id": 18574, "claim_text": "West Ham United F.C. was called Thames Ironworks until 1900.", "ground_truth": "SUPPORTS"}
+{"claim_id": 226868, "claim_text": "Jenna Jameson started acting in home made videos in 1993.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 32172, "claim_text": "Penguin Books sold cheese through Woolworths and other high street stores.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 137360, "claim_text": "The Magyars were defeated by Otto I, Holy Roman Emperor.", "ground_truth": "SUPPORTS"}
+{"claim_id": 32700, "claim_text": "The CONCACAF Champions League is organized for football clubs in the Caribbean and it has many people.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 51714, "claim_text": "23 percent of the University of Mississippi's graduates are successful.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 152037, "claim_text": "Victoria Palace Theatre is in a subsection located close to the center of London.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 16581, "claim_text": "Hindu Kush's highest point is the peak called Hindu Kush.", "ground_truth": "REFUTES"}
+{"claim_id": 177175, "claim_text": "Invasion literature was influential in Spain in shaping popular perceptions.", "ground_truth": "REFUTES"}
+{"claim_id": 212767, "claim_text": "The undergraduate college of Harvard University became coeducational after its merger with Radcliffe College.", "ground_truth": "SUPPORTS"}
+{"claim_id": 179735, "claim_text": "Wentworth Miller made his screenwriting debut with the 80s film Stoker.", "ground_truth": "REFUTES"}
+{"claim_id": 212322, "claim_text": "Mary-Kate Olsen and Ashley Olsen are also known as the Olsen trio.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 100515, "claim_text": "Bret Easton Ellis barely wrote the screenplay for a 2013 film.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 102818, "claim_text": "English people are descended from the Romans, as a result of migration.", "ground_truth": "REFUTES"}
+{"claim_id": 62907, "claim_text": "The Chrysler Building was the tallest building for a while at 318.9 meters tall.", "ground_truth": "SUPPORTS"}
+{"claim_id": 215129, "claim_text": "Private Lives was a tragedy made by Milton in the 1600s.", "ground_truth": "REFUTES"}
+{"claim_id": 147030, "claim_text": "Raees (film) has an Indian film actor born in 1965 as an extra.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 7877, "claim_text": "The ruins of the ancient Roman town of Herculaneum were teleported to a location outside Naples.", "ground_truth": "REFUTES"}
+{"claim_id": 181124, "claim_text": "So You Think You Can Dance premiered on July 20th, 2005 at 8:00 PM.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 54058, "claim_text": "Francis I of France was born on the twelfth of September in the year 1494.", "ground_truth": "SUPPORTS"}
+{"claim_id": 148735, "claim_text": "Blade Runner 2049 is a sequel to 1982's Blade Runner.", "ground_truth": "SUPPORTS"}
+{"claim_id": 141899, "claim_text": "Lizzy Caplan bought the DVD collectible for the show The Class.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 194908, "claim_text": "Stripes was at least one actor's first significant film role.", "ground_truth": "SUPPORTS"}
+{"claim_id": 63837, "claim_text": "Ripon College has existed since at least the Big Bang.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 223340, "claim_text": "The principal filming of The Disaster Artist (film) started in 2016.", "ground_truth": "REFUTES"}
+{"claim_id": 194014, "claim_text": "Kim Jong-il is designated Eternal Chairman of the National Defence Commission.", "ground_truth": "SUPPORTS"}
+{"claim_id": 90446, "claim_text": "Homo sapiens are considered extinct on the IUCN Red List.", "ground_truth": "REFUTES"}
+{"claim_id": 31905, "claim_text": "Lost lasted from September 22, 2004 to May 23, 2010.", "ground_truth": "SUPPORTS"}
+{"claim_id": 177154, "claim_text": "Invasion literature remains an inspiration for public policy to this day.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 60080, "claim_text": "Stephen Hillenburg was fascinated with a lakes as a child.", "ground_truth": "REFUTES"}
+{"claim_id": 134086, "claim_text": "Starrcade was regarded as a flagship event of the year.", "ground_truth": "SUPPORTS"}
+{"claim_id": 202990, "claim_text": "The current Chief Executive Officer of Lockheed Martin is Kansas native Marillyn Hewson.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 209877, "claim_text": "In a Lonely Place has a script based on a 1980 mystery novel.", "ground_truth": "REFUTES"}
+{"claim_id": 97816, "claim_text": "English people are descended from the Angles as a result of migration.", "ground_truth": "SUPPORTS"}
+{"claim_id": 47414, "claim_text": "The Concert for Bangladesh provided valuable lessons and inspiration for projects that came after.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 158428, "claim_text": "The Penibaetic System is also called a system of mountain ranges.", "ground_truth": "SUPPORTS"}
+{"claim_id": 110429, "claim_text": "Henry II of France died in a tournament held to celebrate the autumn.", "ground_truth": "REFUTES"}
+{"claim_id": 75661, "claim_text": "Angela Bassett started her film career in 1985 with the film Back to the Future.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 134346, "claim_text": "Poldark series two did not begin sometime after 6 July 2016.", "ground_truth": "REFUTES"}
+{"claim_id": 189776, "claim_text": "Matthias Corvinus, King of Hungary, established a royal theater troupe between 1458 and 1490.", "ground_truth": "SUPPORTS"}
+{"claim_id": 87354, "claim_text": "Matthew Gray Gubler is a citizen of the United States of America since his naturalization in 2005.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 96657, "claim_text": "Ann Richards was the Governor of Texas for one year.", "ground_truth": "REFUTES"}
+{"claim_id": 193862, "claim_text": "Barry Van Dyke is the first son of Dick Van Dyke.", "ground_truth": "REFUTES"}
+{"claim_id": 141973, "claim_text": "Penguin Books has had significant impact on public debate in cheese.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 177159, "claim_text": "Invasion literature was influential in Britain in shaping popular music.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 126728, "claim_text": "The horse was referred to as a Eohippus when it had multiple toes.", "ground_truth": "SUPPORTS"}
+{"claim_id": 194926, "claim_text": "Stripes featured John Diehl in the role of Dagoth Ur.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 36833, "claim_text": "The Republic of Macedonia is far from a place with various and disputed borders.", "ground_truth": "REFUTES"}
+{"claim_id": 150920, "claim_text": "Sam Claflin was not in Pirates of the Caribbean: On Stranger Tides.", "ground_truth": "REFUTES"}
+{"claim_id": 116349, "claim_text": "Uranium-235 was discovered by a person who was known for his work in mass spectrometry in 2014.", "ground_truth": "REFUTES"}
+{"claim_id": 10357, "claim_text": "Brian Michael Bendis has spent his entire career as a professional baseball player.", "ground_truth": "REFUTES"}
+{"claim_id": 204436, "claim_text": "Brad Wilk died before being a member of Greta in 1990.", "ground_truth": "REFUTES"}
+{"claim_id": 183596, "claim_text": "Finding Dory was directed by someone who is based at Disney.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 180577, "claim_text": "Swordfish (film) is a film that is about a person who is targeted for a crime conspiracy.", "ground_truth": "SUPPORTS"}
+{"claim_id": 126973, "claim_text": "The horse has not grown in size as it evolved.", "ground_truth": "REFUTES"}
+{"claim_id": 167977, "claim_text": "Don Bradman was called the \"greatest living Australian\" by a President.", "ground_truth": "REFUTES"}
+{"claim_id": 186590, "claim_text": "In 1971 Asylum Records the American record label was founded by David Geffen and his partner Elliot Roberts.", "ground_truth": "SUPPORTS"}
+{"claim_id": 219126, "claim_text": "Valencia has about 800,000 inhabitants, making it the third largest city in Spain.", "ground_truth": "SUPPORTS"}
+{"claim_id": 129650, "claim_text": "Rhythm Nation was incapable of being performed on Britain's Got Talent.", "ground_truth": "REFUTES"}
+{"claim_id": 151819, "claim_text": "The United Nations Charter was signed on June 26, 1945 at 11AM.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 87098, "claim_text": "Harold Macmillan only served as the President of the United Kingdom.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 183614, "claim_text": "Finding Dory was directed by someone who is based at anywhere except Pixar.", "ground_truth": "REFUTES"}
+{"claim_id": 179332, "claim_text": "Osamu Tezuka's mother only had to erase notes in his notebook.", "ground_truth": "REFUTES"}
+{"claim_id": 47385, "claim_text": "Chile is in the northern part of the western hemisphere.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 24271, "claim_text": "The New York Knicks are in the Atlantic Division of the National Press Club's Eastern Conference.", "ground_truth": "SUPPORTS"}
+{"claim_id": 123416, "claim_text": "Commercial sexual exploitation, as well as forced labor, are reasons for human trafficking.", "ground_truth": "SUPPORTS"}
+{"claim_id": 179757, "claim_text": "Wentworth Miller made his screenwriting debut with the top grossing thriller film Stoker.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 168540, "claim_text": "Rick Yune was on a show that aired on Netflix.", "ground_truth": "SUPPORTS"}
+{"claim_id": 192921, "claim_text": "\"Love the Way You Lie\" failed to receive any Grammy nominations.", "ground_truth": "REFUTES"}
+{"claim_id": 23320, "claim_text": "The Bloods are a primarily, though not exclusively, African American street gang, with about 90% of members being Black.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 105432, "claim_text": "There is a film called A River Runs Through It.", "ground_truth": "SUPPORTS"}
+{"claim_id": 194775, "claim_text": "Larry the Cable Guy series finale aired on the month of September.", "ground_truth": "REFUTES"}
+{"claim_id": 120578, "claim_text": "Bret Easton Ellis wrote the screenplay for a 2013 film and he was criticized for this.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 94829, "claim_text": "Muscarinic acetylcholine receptors are in the cell membranes of certain codes.", "ground_truth": "REFUTES"}
+{"claim_id": 51242, "claim_text": "The Crips are one of the largest street gangs in India.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 201745, "claim_text": "North Vietnam was officially called the Democratic Republic of Vietnam between 1945 and 1976.", "ground_truth": "SUPPORTS"}
+{"claim_id": 36629, "claim_text": "No Country for Old Men is set in the tundra of Alaska.", "ground_truth": "REFUTES"}
+{"claim_id": 95991, "claim_text": "A View to a Kill is only directed by Chris Columbus.", "ground_truth": "REFUTES"}
+{"claim_id": 180716, "claim_text": "Victoria (Dance Exponents song) was released in New Zealand in 1982.", "ground_truth": "SUPPORTS"}
+{"claim_id": 217668, "claim_text": "The Pelican Brief is a 1993 American legal political thriller starring Bruce Willis.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 93410, "claim_text": "The Bassoon King's subtitle is My Life in Art, Faith, and Idiocy referring to Rain Wilson's experiences in film and religion.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 180734, "claim_text": "Victoria (Dance Exponents song) was released in the Southern Hemisphere in 1982.", "ground_truth": "SUPPORTS"}
+{"claim_id": 204344, "claim_text": "The end of the Cretaceous is a large mass extinction.", "ground_truth": "SUPPORTS"}
+{"claim_id": 118404, "claim_text": "The Palace of Caserta is in Provence, which is far to the west of Naples.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 147056, "claim_text": "Vietnam is the 8th most populous country in the world.", "ground_truth": "REFUTES"}
+{"claim_id": 180735, "claim_text": "Victoria (Dance Exponents song) reached Number 6 on the singles chart.", "ground_truth": "SUPPORTS"}
+{"claim_id": 172280, "claim_text": "The King and I is based on a novel by an American writer born in 1903.", "ground_truth": "SUPPORTS"}
+{"claim_id": 149787, "claim_text": "Michelin Guides have been published for more than a decade.", "ground_truth": "SUPPORTS"}
+{"claim_id": 17031, "claim_text": "Reign Over Me was written and directed by Mike Binder in 2001.", "ground_truth": "REFUTES"}
+{"claim_id": 83647, "claim_text": "Victoria Palace Theatre is opposite Victoria Station and is a place of culture.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 10204, "claim_text": "The Battle of France was the German invasion of France.", "ground_truth": "SUPPORTS"}
+{"claim_id": 216394, "claim_text": "Homer Hickman wrote three of the Josh Thurlow historical fiction novels.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 68853, "claim_text": "Stephen Hillenburg  developed an interest in art and the ocean.", "ground_truth": "SUPPORTS"}
+{"claim_id": 123439, "claim_text": "Margaret Thatcher was the most senior politician within the Conservative Party in the United States.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 37533, "claim_text": "Robert Palmer (writer) has produced blues recordings for ten years.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 149173, "claim_text": "Psych is a drama and comedy that aired in 2004.", "ground_truth": "REFUTES"}
+{"claim_id": 201833, "claim_text": "Dakota Fanning was involved with a 2009 film called Coraline.", "ground_truth": "SUPPORTS"}
+{"claim_id": 119201, "claim_text": "The Concert for Bangladesh is recognized as a highly unsuccessful and minor humanitarian aid project.", "ground_truth": "REFUTES"}
+{"claim_id": 215119, "claim_text": "Private Lives is a three act comedy play from 1930.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 202059, "claim_text": "Tamerlan Tsarnaev has been a law abiding citizen his entire life.", "ground_truth": "REFUTES"}
+{"claim_id": 194349, "claim_text": "Happiness in Slavery is a song by an industrial rock band.", "ground_truth": "SUPPORTS"}
+{"claim_id": 203012, "claim_text": "The chairwoman of Lockheed Martin and the President are currently the same person.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 113504, "claim_text": "The human brain includes a thalamus, a structure for regulating sleep and temperature.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 22017, "claim_text": "Kuching is the capital and most populous city in Sarawak.", "ground_truth": "SUPPORTS"}
+{"claim_id": 172090, "claim_text": "Selena Gomez & the Scene's first record was put out in September.", "ground_truth": "SUPPORTS"}
+{"claim_id": 94357, "claim_text": "Gal Gadot was ranked as the second highest earning actress/models in Israel.", "ground_truth": "SUPPORTS"}
+{"claim_id": 152011, "claim_text": "Around the age of 60, amyotrophic lateral sclerosis usually starts.", "ground_truth": "SUPPORTS"}
+{"claim_id": 3106, "claim_text": "The Armenian Genocide was the Ottoman government's systematic extermination of 1.5 million Armenians.", "ground_truth": "SUPPORTS"}
+{"claim_id": 3025, "claim_text": "PacSun sells products designed for humans aged 13 to 20 years old.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 43110, "claim_text": "The Indian Institute of Management Bangalore offers an executive practice program.", "ground_truth": "SUPPORTS"}
+{"claim_id": 161527, "claim_text": "Baz Luhrmann's film Australia is an epic futuristic romantic drama.", "ground_truth": "REFUTES"}
+{"claim_id": 51097, "claim_text": "Stephen Hillenburg was fascinated with the ocean as a child.", "ground_truth": "SUPPORTS"}
+{"claim_id": 43153, "claim_text": "The series finale of Make It or Break It ended on the 5th month of the calendar year.", "ground_truth": "SUPPORTS"}
+{"claim_id": 215230, "claim_text": "Dreamer (2005 film) was directed by an American director and screenwriter name John Gatins.", "ground_truth": "SUPPORTS"}
+{"claim_id": 41634, "claim_text": "Andrew Kevin Walker was nominated by the BAFTA for his screenwriting.", "ground_truth": "SUPPORTS"}
+{"claim_id": 208440, "claim_text": "Excuse My French is only a single by an American rapper.", "ground_truth": "REFUTES"}
+{"claim_id": 151354, "claim_text": "How to Train Your Dragon 2 was made by someone other than Dreamworks.", "ground_truth": "REFUTES"}
+{"claim_id": 174609, "claim_text": "Artpop was Gaga's second consecutive number-two record in the United States.", "ground_truth": "REFUTES"}
+{"claim_id": 160309, "claim_text": "Gal Gadot was ranked ahead of Esti Ginzburgh for highest earning CEOs in Israel.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 26078, "claim_text": "Viola Davis appeared in film and television only in the 1950s.", "ground_truth": "REFUTES"}
+{"claim_id": 202037, "claim_text": "Tamerlan Tsarnaev has been in a theater production with the police.", "ground_truth": "REFUTES"}
+{"claim_id": 2369, "claim_text": "Eddie Guerrero had issues that were incorporated into his storylines.", "ground_truth": "SUPPORTS"}
+{"claim_id": 165130, "claim_text": "Mickey Rourke appeared in a 2003 film written by Sylvester Stallone.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 57256, "claim_text": "The Bahamas is an internationally recognized state that comprises a series of islands that form the Lucayan Archipelago.", "ground_truth": "SUPPORTS"}
+{"claim_id": 99849, "claim_text": "Humphrey Bogart was not ranked greatest male star of Classic American cinema in 1999.", "ground_truth": "REFUTES"}
+{"claim_id": 195070, "claim_text": "Albert S. Ruddy is born in the morning of March 28, 1930.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 150773, "claim_text": "L.A. Reid has served as the CEO of Arista Records for four years.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 103663, "claim_text": "Diana, Princess of Wales's father inherited the title of Duke of Wellington.", "ground_truth": "REFUTES"}
+{"claim_id": 119875, "claim_text": "Liam Neeson has been nominated for a Golden Globe Award.", "ground_truth": "SUPPORTS"}
+{"claim_id": 187225, "claim_text": "The Hurt Locker was only ever released in the UK in 2010.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 213948, "claim_text": "Gray Matter Interactive Studios, Inc. was a computer game developer founded after 2000.", "ground_truth": "REFUTES"}
+{"claim_id": 189751, "claim_text": "Matthias Corvinus, King of Hungary, established a royal library the Bibliotheca Corviniana between 1458 and 1490.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 183137, "claim_text": "Tata Motors is a constituent of the National Stock Exchange of France.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 46384, "claim_text": "The White House Press Secretary is a senior White House official.", "ground_truth": "SUPPORTS"}
+{"claim_id": 161573, "claim_text": "Baz Luhrmann's film Australia only stars a British actress and film producer.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 171611, "claim_text": "Syracuse, New York, claimed a population of 145,170 residents according to the 2010 United States Census.", "ground_truth": "SUPPORTS"}
+{"claim_id": 174013, "claim_text": "The Endless River is Pink Floyd's second to last studio album.", "ground_truth": "REFUTES"}
+{"claim_id": 137142, "claim_text": "Rage Against the Machine gave performances at music festivals and live concerts.", "ground_truth": "SUPPORTS"}
+{"claim_id": 200300, "claim_text": "David Veloz heavily revised the screenplay for Natural Born Killers.", "ground_truth": "SUPPORTS"}
+{"claim_id": 77377, "claim_text": "Youtube is a location connected to the Internet that maintains one or more pages on the World Wide Web.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 86416, "claim_text": "Rupert Murdoch has worked since at least 1979 and has been criticized.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 22089, "claim_text": "Sean Penn was in crime drama films in the 1990s.", "ground_truth": "SUPPORTS"}
+{"claim_id": 15883, "claim_text": "The Concert for Bangladesh provided valuable lessons and inspiration for projects that followed.", "ground_truth": "SUPPORTS"}
+{"claim_id": 215121, "claim_text": "Private Lives was only created by a Mexican soccer team.", "ground_truth": "REFUTES"}
+{"claim_id": 144049, "claim_text": "The Hindu Kush remains below sea level for its entire breadth.", "ground_truth": "REFUTES"}
+{"claim_id": 45932, "claim_text": "In the 1990s and early 2000s Viola Davis appeared in both film and television.", "ground_truth": "SUPPORTS"}
+{"claim_id": 34774, "claim_text": "Awkward Black Girl is an American comedy web series on YouTube.", "ground_truth": "SUPPORTS"}
+{"claim_id": 194767, "claim_text": "Larry the Cable Guy series finale aired in the year 2014.", "ground_truth": "REFUTES"}
+{"claim_id": 126958, "claim_text": "Julianne Moore was in the film As the World Turns.", "ground_truth": "REFUTES"}
+{"claim_id": 3923, "claim_text": "Pirates of the Caribbean was made in Tokyo Disneyland in 1963.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 189762, "claim_text": "Matthias Corvinus had one of the largest collections of books in Europe during the Renaissance in the 1450's.", "ground_truth": "SUPPORTS"}
+{"claim_id": 195920, "claim_text": "Frozen ranks as the third-most-expensive original film of all time.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 107095, "claim_text": "Star Trek: Discovery is a riff on the series created by Gene Roddenberry.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 14078, "claim_text": "The Chrysler Building was the world's tallest building for 11 months.", "ground_truth": "SUPPORTS"}
+{"claim_id": 229311, "claim_text": "A working animal are incapable of being kept by anyone.", "ground_truth": "REFUTES"}
+{"claim_id": 117186, "claim_text": "Wales transformed into an industrial nation from an agricultural society.", "ground_truth": "SUPPORTS"}
+{"claim_id": 7358, "claim_text": "The final season of Lost was watched by an average of 11 million viewers per episode.", "ground_truth": "SUPPORTS"}
+{"claim_id": 38032, "claim_text": "The 100 is a TV series following a group of 100 teens.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 198029, "claim_text": "The New York City Landmarks Preservation Commission includes zero residents of each of the five New York City boroughs.", "ground_truth": "REFUTES"}
+{"claim_id": 155375, "claim_text": "Paris (Paris Hilton album) incorporates elements of a music genre that originated in Haiti in the late 1960s.", "ground_truth": "NOT ENOUGH INFO"}
+{"claim_id": 181992, "claim_text": "Forceps are an instrument that is unable to be handheld.", "ground_truth": "REFUTES"}
+{"claim_id": 65053, "claim_text": "Caf\u00e9 Society appeared in a film in the twenty first century.", "ground_truth": "NOT ENOUGH INFO"}

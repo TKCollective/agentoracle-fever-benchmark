@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.local
+*.log
+*.stdout
+benchmark.log
+benchmark.stdout
+paper_dev.jsonl
+.DS_Store
