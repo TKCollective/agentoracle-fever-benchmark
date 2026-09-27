@@ -1,3 +1,5 @@
+> **Archived, September 2026.** A historical result (200 FEVER claims against GPT-4o), kept exactly as published. Current benchmark work lives at [tanilo.io/benchmarks](https://tanilo.io/benchmarks) and the `agentoracle-benchmark` repository (being renamed `tanilo-benchmark`). Tanilo was AgentOracle until September 2026.
+
 # AgentOracle FEVER Benchmark — Adversarial Verification vs GPT-4o
 
 Open, reproducible benchmark comparing [AgentOracle](https://agentoracle.co)'s multi-source verification API against GPT-4o as baseline on 200 claims from the FEVER (Fact Extraction and VERification) peer-reviewed dataset.
